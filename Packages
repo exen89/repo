@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.gesturesxv
+Name: GesturesXV
+Version: 1.6
+Architecture: iphoneos-arm64
+Description: Жести як на iPhone X
+Filename: com.nahtedetihw.gesturesxv_1.6_iphoneos-arm64.deb
+Maintainer: Nahtedetihw
+Author: Nahtedetihw
+Section: Tweaks
